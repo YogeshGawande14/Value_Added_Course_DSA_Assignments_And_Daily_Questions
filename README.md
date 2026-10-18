@@ -87,12 +87,12 @@ This repository tracks my daily coding practice: Skillii assignments, VAC coding
 
 | # | ★ | Problem | LeetCode | Companies | Status |
 |---:|:---:|---|---|---|---|
-| 1 |  | Print Hello World and basic output | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
-| 2 |  | Read input and print output | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Not Started |
-| 3 |  | Swap two numbers | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Not Started |
-| 4 |  | Check even or odd | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
-| 5 |  | Find largest of two numbers | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Not Started |
-| 6 |  | Find largest of three numbers | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Not Started |
+| 1 |  | Print Hello World and basic output | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Done |
+| 2 |  | Read input and print output | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Done |
+| 3 |  | Swap two numbers | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Done |
+| 4 |  | Check even or odd | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Done |
+| 5 |  | Find largest of two numbers | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Done |
+| 6 |  | Find largest of three numbers | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Done |
 | 7 |  | Check positive, negative, or zero | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
 | 8 |  | Calculate factorial iteratively | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Not Started |
 | 9 | ★ | Calculate power without built-in power | [powx-n](https://leetcode.com/problems/powx-n/) | Facebook, Amazon, LinkedIn | Not Started |
@@ -104,22 +104,22 @@ This repository tracks my daily coding practice: Skillii assignments, VAC coding
 | 15 | ★ | Check Armstrong number | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Not Started |
 | 16 | ★ | Find GCD of two numbers | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
 | 17 |  | Find LCM of two numbers | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Not Started |
-| 18 | ★ | Check prime number | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Not Started |
+| 18 | ★ | Check prime number | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Done(Skilli) |
 | 19 |  | Print primes in a range | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
 | 20 |  | Generate multiplication table | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Not Started |
 | 21 |  | Convert Celsius to Fahrenheit | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Not Started |
 | 22 |  | Calculate simple and compound interest | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
 | 23 |  | Find leap year | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Not Started |
 | 24 |  | Understand O(1), O(log n), O(n), O(n log n), O(n²) | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Not Started |
-| 25 |  | Compare time and space complexity of two solutions | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
+| 25 |  | Compare time and space complexity of two solutions | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Done |
 
 ### 02. Arrays — Fundamentals
 
 | # | ★ | Problem | LeetCode | Companies | Status |
 |---:|:---:|---|---|---|---|
-| 1 |  | Traverse and print an array | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Not Started |
-| 2 |  | Find sum of array elements | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Not Started |
-| 3 |  | Find average of array elements | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
+| 1 |  | Traverse and print an array | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Done |
+| 2 |  | Find sum of array elements | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | done skilli |
+| 3 |  | Find average of array elements | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Done |
 | 4 |  | Find maximum element | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Infosys, Wipro | Not Started |
 | 5 |  | Find minimum element | [Skilli Student Portal](https://student.skilli.in/practice) | Accenture, Cognizant, Capgemini | Not Started |
 | 6 | ★ | Find second-largest distinct element | [Skilli Student Portal](https://student.skilli.in/practice) | TCS, Accenture, Capgemini | Not Started |
