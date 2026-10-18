@@ -2,6 +2,8 @@
 
 > From programming basics to advanced DSA. **LeetCode** is the primary platform; where LeetCode has no matching problem, practice it on the **[Skilli Student Portal](https://student.skilli.in/practice)**.
 
+> ⚠️ **Very important:** You do **not** need to solve all 1000+ questions — this list is only an optional reference. Focus on understanding the patterns and solve as many as you comfortably can.
+
 ## About
 
 This repository tracks my daily coding practice: Skillii assignments, VAC coding questions, and LeetCode preparation. The goal is to build problem-solving skills step by step — understand the approach, dry-run the code, learn from mistakes, and revisit questions instead of copying solutions.
